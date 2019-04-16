@@ -8,4 +8,4 @@ Of note, the project includes a modular scaling solution, which converts from me
 
 ## Screenshot
 
-![Screenshot of NHL-RINK-D3](JonnyDemelo.github.com/NHL-RINK-D3/src/media/screenshot.PNG)
+![Screenshot of NHL-RINK-D3](https://raw.githubusercontent.com/JonDemelo/NHL-RINK-D3/master/src/media/screenshot.PNG)
